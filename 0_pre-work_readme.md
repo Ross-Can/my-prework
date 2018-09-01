@@ -6,7 +6,7 @@ We've had moments where communication is annoyingly difficult. You type words do
 ### App Walk-though
 <b>Change Text String</b> - Type into the textbar your prompt then press the "change text string" button to change the text on the screen.<br />
 <b>Change View Color</b> - Tap this button to change the background color to red, making your text easier to read.<br />
-<b>Change Text COlor</b> - Tap this button to change the text color to orange. Warning: never mix this with the button stated above.<br />
+<b>Change Text Color</b> - Tap this button to change the text color to orange. Warning: never mix this with the button stated above.<br />
 <b>Say GoodBye</b> - Tap this button to tell the consumers who are not satisfied by a developers hard work goodbye.<br />
 <b>Secret Tip!</b> - Tap the background and it resets all objects to thier original format.<br />
           
