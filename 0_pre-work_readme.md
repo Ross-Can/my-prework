@@ -1,14 +1,18 @@
-## NAME_OF_YOUR_APP_HERE
+## MAD DEMO
 
 ### App Description
-`TODO://` Add app description
+We've had moments where communication is annoyingly difficult. You type words down and people complain that the text is <i>too small</i>. You make the words bigger, but someone else complains that they can only comprehend orange text on a green background. You give them what they want and yet still recieve complaints about your iphone screen being too dirty. Thus, leading you to search for an easy way to tell them "bye". This app can do all of the above and more.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+<b>Change Text String</b> - Type into the textbar your prompt then press the "change text string" button to change the text on the screen.
+<b>Change View Color</b> - Tap this button to change the background color to red, making your text easier to read.
+<b>Change Text COlor</b> - Tap this button to change the text color to orange. Warning: never mix this with the button stated above.
+<b>Say GoodBye</b> - Tap this button to tell the consumers who are not satisfied by a developers hard work goodbye.
+<b>Secret Tip!</b> - Tap the background and it resets all objects to thier original format.
+          
 
 <img src="MadDemo.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
