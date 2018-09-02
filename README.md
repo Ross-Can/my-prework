@@ -1,4 +1,4 @@
-## MAD DEMO
+## Prework Demo (CodePath)
 
 ### App Description
 We've had moments where communication is annoyingly difficult. You type words down and people complain that the text is <i>too small</i>. You make the words bigger, but someone else complains that they can only comprehend orange text on a green background. You give them what they want and yet still recieve complaints about your iphone screen being too dirty. Thus, leading you to search for an easy way to tell them "bye". This app can do all of the above and more.
@@ -7,8 +7,8 @@ We've had moments where communication is annoyingly difficult. You type words do
 <b>Change Text String</b> - Type into the text bar above your prompt. Then tap the "change text string" button to change the text on the screen.<br />
 <b>Change View Color</b> - Tap this button to change the background color to red, making your text easier to read.<br />
 <b>Change Text Color</b> - Tap this button to change the text color to orange. Warning: never mix this with the button stated above.<br />
-<b>Say GoodBye</b> - Tap this button to tell the consumers who are not satisfied by a developers hard work goodbye.<br />
-<b>Secret Tip!</b> - Tap the background and it resets all objects to thier original format.<br />
+<b>Say GoodBye</b> - Tap this button to tell the consumers who are not satisfied by a developer's hard work goodbye.<br />
+<b>Secret Tip!</b> - Tap the background and it resets all objects to thier default format.<br />
           
 
 <img src="MadDemo.gif" width=200 align = "middle"><br>
