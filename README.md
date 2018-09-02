@@ -11,7 +11,7 @@ We've had moments where communication is annoyingly difficult. You type words do
 <b>Secret Tip!</b> - Tap the background and it resets all objects to thier original format.<br />
           
 
-<img src="MadDemo.gif" width=200 align = "middle"><br>
+<img src="https://i.imgur.com/gv12owt.gifv" width=200 align = "middle"><br>
 
 
 ### Required User Stories
